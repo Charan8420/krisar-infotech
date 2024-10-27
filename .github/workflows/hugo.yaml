@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+      - Charan8420-patch-1
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
